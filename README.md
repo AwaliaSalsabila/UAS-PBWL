@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <br>
 <p align="left"><a href="https://foodfun-asraf2asif.000webhostapp.com" target="_blank"><img src="https://raw.githubusercontent.com/Asraf2asif/restaurant-site-laravel/master/public/assets/images/logo/logo2.png" width="300"></a></p>
 
@@ -74,3 +75,7 @@ This project is owned by [Asraf2asif](https://github.com/Asraf2asif) for this [p
 
 ### Data edit form
 <img src="https://raw.githubusercontent.com/Asraf2asif/restaurant-site-laravel/master/Screenshot/12%20-%20Data%20edit%20form.png" width="100%" height="auto">
+=======
+# UAS-PBWL
+Project Laravel Restoran Keluarga sebagai UAS PBWL
+>>>>>>> 49000192051241c08bbf95fbfd5ee2bcc13d8d26
